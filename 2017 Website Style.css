@@ -1,0 +1,39 @@
+* { font-family: "Impact, Charcoal, sans-serif";
+    color: #E6E6FA;
+    background-color: #2F4F4F;
+    text-align: center;
+    font-size: 20px
+}
+
+.Nav {
+      background-color: #00BFFF;
+      border-style: solid;
+}
+
+ul{
+  text-align: center;
+  background-color: #00BFFF;
+  background-position: left;
+}
+
+li{
+  padding: 5px;
+  margin: 100px;
+  display: inline;
+  border-style: solid;
+}
+
+.IntroBanner {
+  text-align: center;
+  border-width: thin;
+  border-style: solid;
+}
+
+.Game {
+
+}
+
+.GameDescription {
+
+
+}
